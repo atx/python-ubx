@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{binari:0,blox:0,implement:0,index:0,librari:0,modul:0,page:0,protocol:0,search:0},titles:["Python-UBX"],titleterms:{indic:0,python:0,tabl:0,ubx:0}})
